@@ -15,5 +15,11 @@ abstract class AbstractClass {
 	{
 		System.out.println("subtraction");
 	}
+	
+	
+	private void sub2()
+	{
+		System.out.println("subtraction");
+	}
 
 }
